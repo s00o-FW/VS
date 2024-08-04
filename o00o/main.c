@@ -1,6 +1,7 @@
 
 /*
 	- GitHub Branch Test!!
+	- git branch --set-upstream-to origin/master : connect to remote repository!
 */
 #include <stdio.h>
 #include ".\DataAlignment\inc\DataAlignment.h"
